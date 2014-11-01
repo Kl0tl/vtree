@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "x-is-array": "^0.1.0",
-    "is-object": "^0.1.2"
+    "is-object": "^0.1.0"
   },
   "devDependencies": {
     "tape": "^2.13.3",
